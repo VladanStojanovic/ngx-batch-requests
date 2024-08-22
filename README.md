@@ -1,6 +1,8 @@
+Blind copy of ytilis/ngx-batch-requests to support Ivy and Angular 13+.
+
 # ngx-batch-requests
 
-Angular (5+) HTTP batching module to reduce the number of HTTP requests and increase performance
+Angular (16+) HTTP batching module to reduce the number of HTTP requests and increase performance
 
 ## Get Started
 
@@ -87,7 +89,7 @@ The changes are based heavily on the work done by [srikrsna](https://github.com/
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--configuration production` flag for a production build.
 
 ## Running unit tests
 
