@@ -1,17 +1,19 @@
 {
-  "name": "ngx-batch-requests",
-  "version": "3.0.0",
+  "name": "@pinetrie/ngx-batch-requests",
+  "version": "18.0.0",
   "license": "MIT",
+  "private": false,
   "author": {
-    "name": "Yury Tilis",
-    "email": "ytilis@gmail.com",
-    "url": "http://yury.tilis.net/"
+    "name": "PINETRIE DOO",
+    "email": "pinetrie.doo@gmail.com",
+    "url": "https://pinetrie.net"
   },
   "keywords": [
     "ng",
     "ngx",
     "angular",
     "angular-2",
+    "angular-18",
     "batching",
     "http-batching",
     "http",
@@ -21,10 +23,10 @@
   "homepage": "https://www.npmjs.com/package/ngx-batch-requests",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ytilis/ngx-batch-requests.git"
+    "url": "git+https://github.com/VladanStojanovic/ngx-batch-requests.git"
   },
   "bugs": {
-    "url": "https://github.com/ytilis/ngx-batch-requests/issues"
+    "url": "https://github.com/VladanStojanovic/ngx-batch-requests/issues"
   },
   "scripts": {
     "ng": "ng",
