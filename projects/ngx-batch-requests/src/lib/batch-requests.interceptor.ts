@@ -1,9 +1,4 @@
-import {
-  HttpInterceptor,
-  HttpEvent,
-  HttpRequest,
-  HttpHandler
-} from '@angular/common/http';
+import { HttpInterceptor, HttpEvent, HttpRequest, HttpHandler } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Inject, Injectable } from '@angular/core';
 import defaultsDeep from 'lodash.defaultsdeep';

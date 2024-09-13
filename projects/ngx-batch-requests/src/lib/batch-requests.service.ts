@@ -1,14 +1,5 @@
 import { Inject, Injectable, Optional } from '@angular/core';
-import {
-  HttpHandler,
-  HttpRequest,
-  HttpEvent,
-  HttpClient,
-  HttpResponse,
-  HttpHeaders,
-  HttpEventType,
-  HttpParams, HttpErrorResponse
-} from '@angular/common/http';
+import { HttpHandler, HttpRequest, HttpEvent, HttpClient, HttpResponse, HttpHeaders, HttpEventType, HttpParams, HttpErrorResponse } from '@angular/common/http';
 import { RxNgZoneScheduler } from 'ngx-rxjs-zone-scheduler';
 import { Observable, Subject } from 'rxjs';
 import { bufferTime, filter, observeOn } from 'rxjs/operators';
